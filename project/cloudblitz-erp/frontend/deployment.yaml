@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: shubhamkalsait1/frontend-app:latest
+          image: patilashutosh0908/main-frontend
           ports:
             - containerPort: 80
   replicas: 3
